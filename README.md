@@ -1,2 +1,2 @@
 # aula_javascript_es6_essecial
-aula_javascript_es6_essecial pela Digital Innovetion One
+Utilização do bootstrap na aula de framework Bootstrap como o profºGuilherme Cabrini pela Digital Innovation One.
